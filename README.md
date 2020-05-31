@@ -1,4 +1,4 @@
-# temp_monitor_anomaly_detector
+# Temperature Monitoring and Anomaly Detector
 
 Project Link:
-https://www.hackster.io/aniruddhamishra9999/capstone-project-temperature-monitor-and-anomaly-detector-fd45ce
+[Hackster.io](https://www.hackster.io/aniruddhamishra9999/capstone-project-temperature-monitor-and-anomaly-detector-fd45ce)
